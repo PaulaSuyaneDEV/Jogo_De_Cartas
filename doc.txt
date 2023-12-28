@@ -1,1 +1,1 @@
-parei em implementando a kógica setar campos
+parei em implementando a lógica de duelos
